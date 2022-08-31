@@ -6,4 +6,5 @@ public class BrowserUtils {
 
     // comment 2
 
+    // comment 3
 }
